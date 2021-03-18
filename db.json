@@ -1,0 +1,7 @@
+{
+  "products": [
+    { "id": 1, "name": "iPhone 12" },
+    { "id": 2, "name": "Macbook Pro" },
+    { "id": 3, "name": "OnePlus 7 Pro" }
+  ]
+}
